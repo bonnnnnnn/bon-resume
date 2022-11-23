@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "PARIWAT CHAIYASART",
+    "occupation": "STUDENT",
+    "description": "I love to discover something new the most",
+    "bio": "Student of KMUTNB who loves music and technology",
+    "email": "whateversit@gmail.com",
+    "phone": "080-968-5401",
+    "address": {
+      "street": "21/58 Pracharat 24",
+      "city": "Nonthaburi",
+      "state": "",
+      "zip": "11000"
+    },
+    "website": "https://github.com/bonnnnnnn",
+    "resumedownload": "../../public/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/bonnnnnnn",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/borjor145",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "King Mongkut's University of Technology North Bangkok",
+        "degree": "Bachelor",
+        "graduated": "2019-Pressent",
+        "description": "Majored in Electronics Engineering Technology Computer"
+      }
+    ],
+    "work": [
+      
+    ],
+    "skills": [
+      {
+        "name": "Guitar",
+        "level": "95%"
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "90%"
+      },
+      {
+        "name": "Programing Skill",
+        "level": "90%"
+      },
+      {
+        "name": "Gamer",
+        "level": "80%"
+      },
+      {
+        "name": "Friends",
+        "level": "5%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Articles",
+        "description": "Medium Article",
+        "category": "Medium Article",
+        "image": "medium.png",
+        "url": "https://shanshaji.medium.com/"
+      },
+      {
+        "title": "Bubble Chart",
+        "description": "React Bubble chart with help of d3.js",
+        "category": "Npm Plugin",
+        "image": "js.png",
+        "url": "https://www.npmjs.com/package/react-d3-bubble"
+      },
+      {
+        "title": "Table Boy",
+        "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
+        "category": "Npm Plugin",
+        "image": "js.png",
+        "url": "https://www.npmjs.com/package/table-boy"
+      },
+      {
+        "title": "Just Drag",
+        "description": "A HOC which will turn wrapped elements draggable",
+        "category": "Npm Plugin",
+        "image": "js.png",
+        "url": "https://www.npmjs.com/package/just-drag"
+      },
+      {
+        "title": "Cricket Game",
+        "description": "An Incremental design workshop",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/Cricket"
+      },
+      {
+        "title": "Ecommerce App",
+        "description": "A basic ecommerce application",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/Ecommerce"
+      },
+      {
+        "title": "Mars Rover",
+        "description": "Mars Rover Problem Design",
+        "category": "Ruby",
+        "image": "ruby.png",
+        "url": "https://github.com/shanshaji/mars-rover"
+      },
+      {
+        "title": "Dragon PvP Game",
+        "description": "Local Multiplayer 2D Game",
+        "category": "Dragon Ruby",
+        "image": "dragonruby-black.png",
+        "url": "https://shanshaji.itch.io/dragon-pvp"
+      }  
+    ]
+  }
+}
